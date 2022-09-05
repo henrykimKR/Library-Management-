@@ -1,4 +1,4 @@
-# LibraryApps :books: 
+# Seneca Library :books: 
 As the final project of the C++ course in Seneca College, it is a program that manages books and publications in the Seneca Library. 
 This project includes all the lessons learned from OOP course. As follows:
 - **Encapsulation**: Data should not be accessed directly from the outside, but only through functions.
